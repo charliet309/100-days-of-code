@@ -17,11 +17,11 @@
 **Link(s) to work**: Nothing yet 
 
 
-### Day 3: June 27, Monday
+### Day 3: Monday October 21, 2019
 
-**Today's Progress**: 
+**Today's Progress**: on 23 of 28 challenges 
 
-**Thoughts** 
+**Thoughts** Figuring out the differences between elements an nesting. I know this will be a process. 
 **Link(s) to work**
 
 
