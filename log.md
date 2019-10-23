@@ -26,12 +26,13 @@
 
 
 
-### Day 3: June 27, Monday
+### Day 4: Tuesday October 22,2019
 
-**Today's Progress**: 
+**Today's Progress**: Finished the Basic Html and Html5 Challenges 
 
-**Thoughts** 
-**Link(s) to work**
+**Thoughts** Worked through the challenges fairly quickly. Getting concerened about Remembering all that I learned will go back to my notes and clean them up so that I can follow them better. 
+
+**Link(s) to work** Nothing yet
 
 
 
