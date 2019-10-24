@@ -36,12 +36,12 @@
 
 
 
-### Day 3: June 27, Monday
+### Day 5: Wednesday October 23,2019
 
-**Today's Progress**: 
+**Today's Progress**: Completed 6 Challenges today in CSS. Loving how im able to create classes an then apply them to a line. This will be very usefull in the future.
 
-**Thoughts** 
-**Link(s) to work**
+**Thoughts** Having a hard time remembering things that I just learned but I love how these thing come up again and test my knowledge. Im pretty happy that I have been taking notes along the way an not relying on my memory. However I know that these things will become second nature at some point.
+**Link(s) to work** Nothing yet
 
 
 
