@@ -45,12 +45,12 @@
 
 
 
-### Day 3: June 27, Monday
+### Day 6 Thursday October 24, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Today did more freecodecamp.  I left of at 22/44 of Basic CSS.
 
-**Thoughts** 
-**Link(s) to work**
+**Thoughts** My new goal is to finish the front end certficate and projects in 100 days! I love seeing my code run and am very excited to get to some projects to really challenge myself.
+**Link(s) to work** nothing yet
 
 
 
